@@ -29,7 +29,7 @@ public class UserService {
 	void populateArray() throws FileNotFoundException, IOException { 
 		
 		BufferedReader reader = null; 
-		String file = "D:\\eclipse\\2023\\assignment3\\xinyi-assignment3\\src\\com\\assignment3\\data.txt";
+		String file = "data.txt";
 		
 		try { 
 			String line;
